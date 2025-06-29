@@ -22,3 +22,5 @@ This model can serve as a foundational tool for stakeholders in the real estate 
 Hands-on experience with the end-to-end process of building and evaluating a basic regression model.
 Understanding the importance of data splitting and model evaluation metrics.
 Practical application of core data science libraries in Python.
+# Courtesy:
+Kaggle
